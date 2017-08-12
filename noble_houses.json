@@ -1,0 +1,142 @@
+{
+  "noble_houses": [{
+    "house" : "Stark",
+    "sigil": "A grey direwolf on a white field",
+    "words": "Winter is coming",
+    "title": [
+      "King in the North",
+      "Lord of Winterfell"  
+    ],
+    "seat": "Winterfell",
+    "region": "The North",
+    "lords and/or main members": [
+      "Eddard Stark",
+      "Bran Stark",
+      "Robb Stark",
+      "Sansa Stark",
+      "Arya Stark",
+      "Rickon Stark",
+      "Jon Snow"
+    ],
+    "allegiance": [
+      "House Baratheon (formerly)",
+      "House Targaryen (formerly)"
+    ],
+    "founder" : "Bran the Builder"
+  }, {
+    "house" : "Lannister",
+    "sigil": "A golden lion rampant on a crimson field",
+    "words": "A Lannister always pays his debts",
+    "title": [
+      "King of the Andals and the First Men",
+      "Protector of the Seven Kingdoms",
+      "Lord of Casterly Rock",
+      "Warden of the West"  
+    ],
+    "seat": [
+      "Red Keep",
+      "King's Landing",
+      "Casterly Rock"
+    ],
+    "region": [
+      "The Crownlands",
+      "The Westerlands"
+    ],
+    "lords and/or main members": [
+      "Tywin Lannister",
+      "Cersei Lannister",
+      "Jaime Lannister",
+      "Tyrion Lannister"
+    ],
+    "allegiance": [
+      "House Baratheon (formerly)",
+      "House Targaryen (formerly)"
+    ],
+    "founder" : "Lann the Clever"
+  }, {
+    "house" : "Targaryen",
+    "sigil": "A red three-headed dragon, on a black field",
+    "words": "Fire and Blood",
+    "title": [
+      "King of the Andals and the First Men",
+      "Protector of the Seven Kingdoms",
+      "Protector of the Realm",
+      "Queen of Meereen"  
+    ],
+    "seat": [
+      "Dragonstone",
+      "King's Landing",
+      "Red Keep",
+      "Great Pyramid",
+      "Meereen"
+    ],
+    "region": [
+      "Dragonstone",
+      "Bay of Dragons",
+      "The Crownlands"
+    ],
+    "lords and/or main members": [
+      "Aerys II Targaryen",
+      "Viserys Targaryen",
+      "Daenerys Targaryen"
+    ],
+    "allegiance": [
+      "House Baratheon (cadet branch)",
+      "House Blackfire (extinct)"
+    ],
+    "founder" : "---"
+  }, {
+    "house" : "Tyrell",
+    "sigil": "A golden rose on a green field",
+    "words": "Growing strong",
+    "title": [
+      "Lord of Highgarden",
+      "Lord Paramount of the Reach",
+      "Warden of the South"
+    ],
+    "seat": "Highgarden",
+    "region": "The Reach",
+    "lords and/or main members": [
+      "Olenna Tyrell",
+      "Margaery Tyrell",
+      "Loras Tyrell"
+    ],
+    "allegiance": [
+      "House Targaryen",
+      "House Baratheon"
+    ],
+    "founder" : "---"  
+  }, {
+    "house" : "Greyjoy",
+    "sigil": "A golden kraken on a black field",
+    "words": [
+      "We do not sow",
+      "What is dead may never die"
+    ],
+    "title": [
+      "King of the Iron Islands",
+      "Lord Reaper of Pyke",
+      "Son of the Sea Wind",
+      "King of Salt and Rock"  
+    ],
+    "seat": "Pyke",
+    "region": "Iron Islands",
+    "lords and/or main members": [
+      "Euron Greyjoy",
+      "Balon Greyjoy",
+      "Yara Greyjoy",
+      "Theon Greyjoy"
+    ],
+    "allegiance": [
+      "House Lannister",
+      "House Baratheon (formerly)",
+      "House Targaryen (formerly)"
+    ],
+    "founder" : "---"
+  }]
+}
+
+
+
+
+    
