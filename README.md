@@ -12,6 +12,6 @@ Game of Thrones wiki written in JSON. Please pay attention to possible spoilers.
 *   **allegiance**: *Allegiance with other houses of Westeros*
 *   **founder**: *Name of the founder*
 
-## Seven Kingdoms
+# Seven Kingdoms
 
 Coming soon.
