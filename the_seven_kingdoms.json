@@ -1,1 +1,27 @@
-Coming soon
+{
+  "The Seven Kingdoms": [{
+    "Kingdom" : "The North",
+    "Rulers": "House Stark",
+    "Capital": "Winterfell",
+    "Date absorbed": "1 AL",
+    "Predecessors": "Kingdom of the North",
+  }, {
+    "Kingdom" : "The Vale of Arryn",
+    "Rulers": "House Arryn",
+    "Capital": "The Eyrie",
+    "Date absorbed": "1 AL",
+    "Predecessors": "Kingdom of the Mountain and the Vale",
+  }, {
+    "Kingdom" : "The Riverlands",
+    "Rulers": null,
+    "Capital": "Riverrun",
+    "Date absorbed": "1 AL",
+    "Predecessors": "Kingdom of the Isles and Rivers",
+  }, {
+    "Kingdom" : "The Riverlands",
+    "Rulers": null,
+    "Capital": "Riverrun",
+    "Date absorbed": "1 AL",
+    "Predecessors": "Kingdom of the Isles and Rivers",
+
+
