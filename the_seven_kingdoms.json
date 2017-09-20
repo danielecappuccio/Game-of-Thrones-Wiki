@@ -24,10 +24,11 @@
     "Date absorbed": "1 AL",
     "Predecessors": "Kingdom of the Isles and Rivers"
   }, {
-    "Kingdom" : "The Riverlands",
-    "Rulers": null,
-    "Capital": "Riverrun",
+    "Kingdom" : "The Westerlands",
+    "Rulers": "House Lannister",
+    "Capital": "Casterly Rock",
     "Date absorbed": "1 AL",
-    "Predecessors": "Kingdom of the Isles and Rivers",
+    "Predecessors": "Kingdom of the Rock"
+  }, {
 
 
