@@ -39,5 +39,24 @@
       "Kingdom of the Stormlands"
     ]
   }, {
-    
+    "Kingdom" : "The Stormlands",
+    "Rulers": null,
+    "Capital": "Storm's End",
+    "Date absorbed": "1 AL",
+    "Predecessors": "Kingdom of the Stormlands"
+  }, {
+    "Kingdom" : "The Reach",
+    "Rulers": null,
+    "Capital": "Highgarden",
+    "Date absorbed": "1 AL",
+    "Predecessors": "Kingdom of the Reach"
+  }, {
+    "Kingdom" : "Dorne",
+    "Rulers": null,
+    "Capital": "Sunspear",
+    "Date absorbed": "159 AL",
+    "Predecessors": "Principality of Dorne"
+  }]
+}
+
 
