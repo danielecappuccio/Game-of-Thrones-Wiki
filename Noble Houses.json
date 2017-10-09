@@ -1,15 +1,15 @@
 {
   "Noble Houses": [{
-    "house" : "Stark",
-    "sigil": "A grey direwolf on a white field",
-    "words": "Winter is coming",
-    "title": [
+    "House" : "Stark",
+    "Sigil": "A grey direwolf on a white field",
+    "Words": "Winter is coming",
+    "Titles": [
       "King in the North",
       "Lord of Winterfell"  
     ],
-    "seat": "Winterfell",
-    "region": "The North",
-    "lords and/or main members": [
+    "Seats": "Winterfell",
+    "Regions": "The North",
+    "Lords/Members": [
       "Eddard Stark",
       "Bran Stark",
       "Robb Stark",
@@ -18,11 +18,11 @@
       "Rickon Stark",
       "Jon Snow"
     ],
-    "allegiance": [
+    "Allegiances": [
       "House Baratheon (formerly)",
       "House Targaryen (formerly)"
     ],
-    "founder" : "Bran the Builder"
+    "Founders" : "Bran the Builder"
   }, {
     "house" : "Lannister",
     "sigil": "A golden lion rampant on a crimson field",
