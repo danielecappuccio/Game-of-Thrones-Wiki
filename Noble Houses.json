@@ -24,35 +24,35 @@
     ],
     "Founders" : "Bran the Builder"
   }, {
-    "house" : "Lannister",
-    "sigil": "A golden lion rampant on a crimson field",
-    "words": "A Lannister always pays his debts",
-    "title": [
+    "House" : "Lannister",
+    "Sigil": "A golden lion rampant on a crimson field",
+    "Words": "A Lannister always pays his debts",
+    "Titles": [
       "King of the Andals and the First Men",
       "Protector of the Seven Kingdoms",
       "Lord of Casterly Rock",
       "Warden of the West"  
     ],
-    "seat": [
+    "Seats": [
       "Red Keep",
       "King's Landing",
       "Casterly Rock"
     ],
-    "region": [
+    "Regions": [
       "The Crownlands",
       "The Westerlands"
     ],
-    "lords and/or main members": [
+    "Lords/Members": [
       "Tywin Lannister",
       "Cersei Lannister",
       "Jaime Lannister",
       "Tyrion Lannister"
     ],
-    "allegiance": [
+    "Allegiances": [
       "House Baratheon (formerly)",
       "House Targaryen (formerly)"
     ],
-    "founder" : "Lann the Clever"
+    "Founders" : "Lann the Clever"
   }, {
     "house" : "Targaryen",
     "sigil": "A red three-headed dragon, on a black field",
