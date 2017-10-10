@@ -54,37 +54,37 @@
     ],
     "Founders" : "Lann the Clever"
   }, {
-    "house" : "Targaryen",
-    "sigil": "A red three-headed dragon, on a black field",
-    "words": "Fire and Blood",
-    "title": [
+    "House" : "Targaryen",
+    "Sigil": "A red three-headed dragon, on a black field",
+    "Words": "Fire and Blood",
+    "Titles": [
       "King of the Andals and the First Men",
       "Protector of the Seven Kingdoms",
       "Protector of the Realm",
       "Queen of Meereen"  
     ],
-    "seat": [
+    "Seats": [
       "Dragonstone",
       "King's Landing",
       "Red Keep",
       "Great Pyramid",
       "Meereen"
     ],
-    "region": [
+    "Regions": [
       "Dragonstone",
       "Bay of Dragons",
       "The Crownlands"
     ],
-    "lords and/or main members": [
+    "Lords/Members": [
       "Aerys II Targaryen",
       "Viserys Targaryen",
       "Daenerys Targaryen"
     ],
-    "allegiance": [
+    "Allegiances": [
       "House Baratheon (cadet branch)",
       "House Blackfire (extinct)"
     ],
-    "founder" : "---"
+    "Founders" : "---"
   }, {
     "house" : "Tyrell",
     "sigil": "A golden rose on a green field",
