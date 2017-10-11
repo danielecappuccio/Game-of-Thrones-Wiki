@@ -86,26 +86,26 @@
     ],
     "Founders" : "---"
   }, {
-    "house" : "Tyrell",
-    "sigil": "A golden rose on a green field",
-    "words": "Growing strong",
-    "title": [
+    "House" : "Tyrell",
+    "Sigil": "A golden rose on a green field",
+    "Words": "Growing strong",
+    "Titles": [
       "Lord of Highgarden",
       "Lord Paramount of the Reach",
       "Warden of the South"
     ],
-    "seat": "Highgarden",
-    "region": "The Reach",
-    "lords and/or main members": [
+    "Seats": "Highgarden",
+    "Regions": "The Reach",
+    "Lords/Members": [
       "Olenna Tyrell",
       "Margaery Tyrell",
       "Loras Tyrell"
     ],
-    "allegiance": [
+    "Allegiances": [
       "House Targaryen",
       "House Baratheon"
     ],
-    "founder" : "---"  
+    "Founders" : "---"  
   }, {
     "house" : "Greyjoy",
     "sigil": "A golden kraken on a black field",
