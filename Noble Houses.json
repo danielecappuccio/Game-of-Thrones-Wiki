@@ -107,32 +107,32 @@
     ],
     "Founders" : "---"  
   }, {
-    "house" : "Greyjoy",
-    "sigil": "A golden kraken on a black field",
-    "words": [
+    "House" : "Greyjoy",
+    "Sigil": "A golden kraken on a black field",
+    "Words": [
       "We do not sow",
       "What is dead may never die"
     ],
-    "title": [
+    "Titles": [
       "King of the Iron Islands",
       "Lord Reaper of Pyke",
       "Son of the Sea Wind",
       "King of Salt and Rock"  
     ],
-    "seat": "Pyke",
-    "region": "Iron Islands",
-    "lords and/or main members": [
+    "Seats": "Pyke",
+    "Regions": "Iron Islands",
+    "Lords/Members": [
       "Euron Greyjoy",
       "Balon Greyjoy",
       "Yara Greyjoy",
       "Theon Greyjoy"
     ],
-    "allegiance": [
+    "Allegiances": [
       "House Lannister",
       "House Baratheon (formerly)",
       "House Targaryen (formerly)"
     ],
-    "founder" : "---"
+    "Founders" : "---"
   }, {
     "house" : "Bolton",
     "sigil": "A red flayed man, hanging upside-down on a white X-shaped cross, on a black background",
