@@ -160,26 +160,26 @@
     ],
     "Founders" : "---"
   }, {
-    "house" : "Frey",
-    "sigil": "The two stone grey towers and bridge of the Twins, on a dark grey field, surmounting an escutcheon of blue water",
-    "words": "We stand together",
-    "title": [
+    "House" : "Frey",
+    "Sigil": "The two stone grey towers and bridge of the Twins, on a dark grey field, surmounting an escutcheon of blue water",
+    "Words": "We stand together",
+    "Titles": [
       "Lord of the Crossing",
       "Lord of Riverrun",
       "Lord Paramount of the Trident"
     ],
-    "seat": [
+    "Seats": [
       "The Twins",
       "Riverrun"
     ],
-    "region": "The Riverlands",
-    "lords and/or main members": "Walder Frey",
-    "allegiance": [
+    "Regions": "The Riverlands",
+    "Lords/Members": "Walder Frey",
+    "Allegiances": [
       "House Lannister",
       "House Baratheon (formerly)",
       "House Tully (formerly)"
     ],
-    "founder" : "---"
+    "Founders" : "---"
   }, {
     "house" : "Martell",
     "sigil": "A red sun pierced by a gold spear, on an orange field",
