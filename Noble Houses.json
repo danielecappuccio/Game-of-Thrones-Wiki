@@ -134,31 +134,31 @@
     ],
     "Founders" : "---"
   }, {
-    "house" : "Bolton",
-    "sigil": "A red flayed man, hanging upside-down on a white X-shaped cross, on a black background",
-    "words": [
+    "House" : "Bolton",
+    "Sigil": "A red flayed man, hanging upside-down on a white X-shaped cross, on a black background",
+    "Words": [
       "Our blades are sharp",
       "A naked man has few secrets; A flayed man, none"
     ],
-    "title": [
+    "Titles": [
       "Lord of the Dreadfort",
       "Lord of Winterfell",
       "Warden of the North"  
     ],
-    "seat": [
+    "Seats": [
       "The Dreadfort",
       "Winterfell"
     ],
-    "region": "The North",
-    "lords and/or main members": [
+    "Regions": "The North",
+    "Lords/Members": [
       "Roose Bolton",
       "Ramsay Bolton"
     ],
-    "allegiance": [
+    "Allegiances": [
       "House Baratheon (formerly)",
       "House Stark (formerly)"
     ],
-    "founder" : "---"
+    "Founders" : "---"
   }, {
     "house" : "Frey",
     "sigil": "The two stone grey towers and bridge of the Twins, on a dark grey field, surmounting an escutcheon of blue water",
