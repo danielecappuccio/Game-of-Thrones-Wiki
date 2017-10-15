@@ -181,27 +181,27 @@
     ],
     "Founders" : "---"
   }, {
-    "house" : "Martell",
-    "sigil": "A red sun pierced by a gold spear, on an orange field",
-    "words": "Unbowed, unbent, unbroken",
-    "title": [
+    "House" : "Martell",
+    "Sigil": "A red sun pierced by a gold spear, on an orange field",
+    "Words": "Unbowed, unbent, unbroken",
+    "Titles": [
       "Prince of Dorne",
       "Lord of Sunspear"  
     ],
-    "seat": "Sunspear",
-    "region": "Dorne",
-    "lords and/or main members": [
+    "Seats": "Sunspear",
+    "Regions": "Dorne",
+    "Lords/Members": [
       "Doran Martell",
       "Trystane Martell",
       "Oberyn Martell",
       "Ellaria Sand",
       "Sand Snakes"
     ],
-    "allegiance": [
+    "Allegiances": [
       "House Targaryen (under Ellaria Sand)",
       "House Baratheon (formerly)"
     ],
-    "founder" : "---"
+    "Founders" : "---"
   }, {
     "house" : "Arryn",
     "sigil": "A white falcon volant and crescent moon on a blue field",
