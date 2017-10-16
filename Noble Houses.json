@@ -203,28 +203,28 @@
     ],
     "Founders" : "---"
   }, {
-    "house" : "Arryn",
-    "sigil": "A white falcon volant and crescent moon on a blue field",
-    "words": "As high as honor",
-    "title": [
+    "House" : "Arryn",
+    "Sigil": "A white falcon volant and crescent moon on a blue field",
+    "Words": "As high as honor",
+    "Titles": [
       "Lord of the Eyrie",
       "Lord Paramount of the Vale",
       "Warden of the East",
       "King of Mountain and Vale"  
     ],
-    "seat": "The Eyrie",
-    "region": "The Vale of Arryn",
-    "lords and/or main members": [
+    "Seats": "The Eyrie",
+    "Regions": "The Vale of Arryn",
+    "Lords/Members": [
       "Jon Arryn",
       "Robin Arryn",
       "Petyr 'Littlefinger' Baelish (regent)"
     ],
-    "allegiance": [
+    "Allegiances": [
       "House Stark",
       "House Baratheon (formerly)",
       "House Targaryen (formerly)"
     ],
-    "founder" : "Artys Arryn"
+    "Founders" : "Artys Arryn"
   }, {
     "house" : "Tully",
     "sigil": "A silver trout leaping on a red and blue background",
