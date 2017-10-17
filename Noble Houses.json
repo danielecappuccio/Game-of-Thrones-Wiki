@@ -226,26 +226,26 @@
     ],
     "Founders" : "Artys Arryn"
   }, {
-    "house" : "Tully",
-    "sigil": "A silver trout leaping on a red and blue background",
-    "words": "Family, duty, honor",
-    "title": [
+    "House" : "Tully",
+    "Sigil": "A silver trout leaping on a red and blue background",
+    "Words": "Family, duty, honor",
+    "Titles": [
       "Lord of Riverrun",
       "Lord Paramount of the Riverlands" 
     ],
-    "seat": "Riverrun",
-    "region": "The Riverlands",
-    "lords and/or main members": [
+    "Seats": "Riverrun",
+    "Regions": "The Riverlands",
+    "Lords/Members": [
       "Catelyn Tully",
       "Lisa Tully"
     ],
-    "allegiance": [
+    "Allegiances": [
       "House Frey (forcibly)",
       "House Stark (formerly)",
       "House Baratheon (formerly)",
       "House Targaryen (formerly)"
     ],
-    "founder" : "Axel Tully"
+    "Founders" : "Axel Tully"
   }, {
     "house" : "Tarly",
     "sigil": "A striding huntsman, red on green",
