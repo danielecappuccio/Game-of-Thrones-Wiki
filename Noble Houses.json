@@ -247,22 +247,22 @@
     ],
     "Founders" : "Axel Tully"
   }, {
-    "house" : "Tarly",
-    "sigil": "A striding huntsman, red on green",
-    "words": "First in battle",
-    "title": "Lord of Horn Hill",
-    "seat": "Horn Hill",
-    "region": "The Reach",
-    "lords and/or main members": [
+    "House" : "Tarly",
+    "Sigil": "A striding huntsman, red on green",
+    "Words": "First in battle",
+    "Titles": "Lord of Horn Hill",
+    "Seats": "Horn Hill",
+    "Regions": "The Reach",
+    "Lords/Members": [
       "Randyll Tarly",
       "Samwell Tarly",
       "Dickon Tarly"
     ],
-    "allegiance": [
+    "Allegiances": [
       "House Lannister",
       "House Tyrell (formerly)"
     ],
-    "founder" : "---"
+    "Founders" : "---"
   }, {
     "house" : "Baratheon",
     "sigil": "A crowned black stag on a field of gold",
