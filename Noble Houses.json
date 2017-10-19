@@ -264,22 +264,22 @@
     ],
     "Founders" : "---"
   }, {
-    "house" : "Baratheon",
-    "sigil": "A crowned black stag on a field of gold",
-    "words": "Ours is the fury",
-    "title": [
+    "House" : "Baratheon",
+    "Sigil": "A crowned black stag on a field of gold",
+    "Words": "Ours is the fury",
+    "Titles": [
       "Lord of Storm's End",
       "Lord Paramount of the Stormlands"
     ],
-    "seat": "Storm's End",
-    "region": "Stormlands",
-    "lords and/or main members": [
+    "Seats": "Storm's End",
+    "Regions": "Stormlands",
+    "Lords/Members": [
       "Robert Baratheon",
       "Stannis Baratheon",
       "Renly Baratheon"
     ],
-    "allegiance": "House Targaryen (formerly)",
-    "founder" : "Orys Baratheon"
+    "Allegiances": "House Targaryen (formerly)",
+    "Founders" : "Orys Baratheon"
   }, {
     "house" : "Mormont",
     "sigil": "A rampant black bear on a white field, surrounded by a green escutcheon",
