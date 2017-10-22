@@ -281,18 +281,18 @@
     "Allegiances": "House Targaryen (formerly)",
     "Founders" : "Orys Baratheon"
   }, {
-    "house" : "Mormont",
-    "sigil": "A rampant black bear on a white field, surrounded by a green escutcheon",
-    "words": "Here we stand",
-    "title": "Lord of Bear Island",
-    "seat": "Bear Island",
-    "region": "The North",
-    "lords and/or main members": [
+    "House" : "Mormont",
+    "Sigil": "A rampant black bear on a white field, surrounded by a green escutcheon",
+    "Words": "Here we stand",
+    "Titles": "Lord of Bear Island",
+    "Seats": "Bear Island",
+    "Regions": "The North",
+    "Lords/Members": [
       "Jorah Mormont",
       "Lyanna Mormont"
     ],
-    "allegiance": "House Stark",
-    "founder" : "---"
+    "Allegiances": "House Stark",
+    "Founders" : "---"
   }, {
     "house" : "Umber",
     "sigil": "Four silver chains linked by a central ring on dark red",
