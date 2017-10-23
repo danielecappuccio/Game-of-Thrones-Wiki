@@ -294,21 +294,21 @@
     "Allegiances": "House Stark",
     "Founders" : "---"
   }, {
-    "house" : "Umber",
-    "sigil": "Four silver chains linked by a central ring on dark red",
-    "words": "---",
-    "title": "Lord of Last Hearth",
-    "seat": "Last Hearth",
-    "region": "The North",
-    "lords and/or main members": [
+    "House" : "Umber",
+    "Sigil": "Four silver chains linked by a central ring on dark red",
+    "Words": "---",
+    "Titles": "Lord of Last Hearth",
+    "Seats": "Last Hearth",
+    "Regions": "The North",
+    "Lords/Members": [
       "Smalljon Umber",
       "Ned Umber"
     ],
-    "allegiance": [
+    "Allegiances": [
       "House Stark",
       "House Bolton (formerly)"
     ],
-    "founder" : "---"
+    "Founders" : "---"
   }, {
     "house" : "Reed",
     "sigil": "A black lizard-lion on a grey-green field",
