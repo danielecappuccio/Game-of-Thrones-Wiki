@@ -310,33 +310,33 @@
     ],
     "Founders" : "---"
   }, {
-    "house" : "Reed",
-    "sigil": "A black lizard-lion on a grey-green field",
-    "words": "---",
-    "title": "Lord of Greywater Watch",
-    "seat": "Greywater Watch",
-    "region": "The North",
-    "lords and/or main members": [
+    "House" : "Reed",
+    "Sigil": "A black lizard-lion on a grey-green field",
+    "Words": "---",
+    "Titles": "Lord of Greywater Watch",
+    "Seats": "Greywater Watch",
+    "Regions": "The North",
+    "Lords/Members": [
       "Howland Reed",
       "Meera Reed"
     ],
-    "allegiance": "House Stark",
-    "founder" : "---"
+    "Allegiances": "House Stark",
+    "Founders" : "---"
   }, {
-    "house" : "Karstark",
-    "sigil": "A white sunburst on black",
-    "words": "The Sun of winter",
-    "title": "Lord of Karhold",
-    "seat": "Karhold",
-    "region": "The North",
-    "lords and/or main members": [
+    "House" : "Karstark",
+    "Sigil": "A white sunburst on black",
+    "Words": "The Sun of winter",
+    "Titles": "Lord of Karhold",
+    "Seats": "Karhold",
+    "Regions": "The North",
+    "Lords/Members": [
       "Rickard Karstark",
       "Alys Karstark"
     ],
-    "allegiance": [
+    "Allegiances": [
       "House Stark",
       "House Bolton (formerly)"
     ],
-    "founder" : "Karlon Stark"
+    "Founders" : "Karlon Stark"
   }]
 }
